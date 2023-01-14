@@ -1,0 +1,205 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "Africa",
+      "description": "É o segundo maior continente do mundo, com uma variedade de paisagens que incluem desertos, savanas, florestas tropicais e muitas culturas diversas. Ele é conhecido por sua riqueza mineral e sua fauna selvagem, incluindo elefantes, leões e rinocerontes.",
+      "countries": [
+        {
+          "id": 1,
+          "name": "Marrocos",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Morocco.jpg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Marrakech",
+              "image": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "América do Norte",
+      "description": "É composto principalmente pelos Estados Unidos, Canadá e México. Ele é conhecido por sua economia forte e sua diversidade cultural, com influências europeias, latino-americanas e nativas americanas. Alguns dos principais pontos turísticos incluem as Grandes Planícies, os Grandes Lagos e as Cataratas do Niágara.",
+      "countries": [
+        {
+          "id": 2,
+          "name": "Estados Unidos",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/United_States.jpg",
+          "cities": [
+            {
+              "id": 2,
+              "name": "San Francisco",
+              "image": "https://images.unsplash.com/photo-1541464522988-31b420f688b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+            },
+            {
+              "id": 3,
+              "name": "Orlando",
+              "image": "https://images.unsplash.com/photo-1618945373370-7bde4f8dd9c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80"
+            },
+            {
+              "id": 4,
+              "name": "Nova Iorque",
+              "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Canadá",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Canada.jpg",
+          "cities": [
+            {
+              "id": 5,
+              "name": "Toronto",
+              "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "México",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Mexico.jpg",
+          "cities": [
+            {
+              "id": 6,
+              "name": "Cancún",
+              "image": "https://images.unsplash.com/photo-1585580704321-e5c03f7859df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "América do Sul",
+      "description": "É composta principalmente por países como Brasil, Argentina, Chile e Peru. É conhecida por sua riqueza natural, incluindo a floresta amazônica e os Andes, além de suas belas praias e cidades históricas, como Machu Picchu no Peru.",
+      "countries": [
+        {
+          "id": 5,
+          "name": "Brasil",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Brazil.jpg",
+          "cities": [
+            {
+              "id": 7,
+              "name": "Rio de Janeiro",
+              "image": "https://images.unsplash.com/photo-1544989164-31dc3c645987?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80"
+            },
+            {
+              "id": 8,
+              "name": "Salvador",
+              "image": "https://images.unsplash.com/photo-1569556420157-6030491766d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ásia",
+      "description": "É o maior continente do mundo, composto por países como China, Índia, Rússia e Japão. É conhecido por sua diversidade cultural, religião e economia, e é o lar de algumas das cidades mais populosas e importantes do mundo. Alguns dos principais pontos turísticos incluem as Pirâmides do Egito, as Terras Altas da Escócia e os Lagos Distantes.",
+      "countries": [
+        {
+          "id": 6,
+          "name": "China",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/China.jpg",
+          "cities": [
+            {
+              "id": 9,
+              "name": "Hong Kong",
+              "image": "https://images.unsplash.com/photo-1533029030467-904d7bbd602b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": [
+        {
+          "id": 7,
+          "name": "Reino Unido",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/United_Kingdom.jpg",
+          "cities": [
+            {
+              "id": 10,
+              "name": "Londres",
+              "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "França",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/France.jpg",
+          "cities": [
+            {
+              "id": 11,
+              "name": "Paris",
+              "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Itália",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Italy.jpg",
+          "cities": [
+            {
+              "id": 12,
+              "name": "Roma",
+              "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1396&q=80"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "República Tcheca",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Czech_Republic.jpg",
+          "cities": [
+            {
+              "id": 13,
+              "name": "Praga",
+              "image": "https://images.unsplash.com/photo-1594492256402-1463c14e0317?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Holanda",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/Netherlands.jpg",
+          "cities": [
+            {
+              "id": 14,
+              "name": "Amsterdã",
+              "image": "https://images.unsplash.com/photo-1612814916440-980bd1c9a703?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Oceania",
+      "description": "É composta principalmente por ilhas isoladas como Austrália, Nova Zelândia, Ilhas Fiji e Ilhas da Polinésia. É conhecida por sua beleza natural, com praias de areia branca, recifes de corais e florestas tropicais.",
+      "countries": [
+        {
+          "id": 12,
+          "name": "Nova Zelândia",
+          "flag": "https://www.sciencekids.co.nz/images/pictures/flags96/New_Zealand.jpg",
+          "cities": [
+            {
+              "id": 15,
+              "name": "Auckland",
+              "image": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
